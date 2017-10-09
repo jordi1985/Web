@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginRight="16dp"
-        android:text="Button"
+        android:text="GO!"
         app:layout_constraintRight_toRightOf="parent"
         tools:layout_editor_absoluteY="454dp" />
 
@@ -20,7 +20,7 @@
         android:layout_width="222dp"
         android:layout_height="39dp"
         android:layout_marginBottom="16dp"
-        android:text="type URL"
+        android:text="Type a URL"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_editor_absoluteX="15dp"
         tools:layout_editor_absoluteY="456dp" />
